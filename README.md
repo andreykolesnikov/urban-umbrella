@@ -1,7 +1,7 @@
-[Heroku](https://github.com/keselekpermen69/Telegram_Forwarder#Host-on-Heroku)
+[Heroku](https://github.com/andreykolesnikov/urban-umbrella/#Host-on-Heroku)
 
 
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/KeselekPermen69/Telegram_Forwarder/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/andreykolesnikov/urban-umbrella/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
